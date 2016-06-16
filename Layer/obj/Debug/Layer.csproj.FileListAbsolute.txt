@@ -1,0 +1,5 @@
+C:\Users\Karim Moustafa.ALX-MICROSOFT\Desktop\Layer\Layer\bin\Layer.dll
+C:\Users\Karim Moustafa.ALX-MICROSOFT\Desktop\Layer\Layer\bin\Layer.pdb
+C:\Users\Karim Moustafa.ALX-MICROSOFT\Desktop\Layer\Layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karim Moustafa.ALX-MICROSOFT\Desktop\Layer\Layer\obj\Debug\Layer.dll
+C:\Users\Karim Moustafa.ALX-MICROSOFT\Desktop\Layer\Layer\obj\Debug\Layer.pdb
